@@ -1,2 +1,20 @@
-﻿  Scene3DRenderer.cpp
-  VoxelReconstruction.vcxproj -> D:\Uni Stuff\Computer Vision\Assignment 2\VoxelReconstruction\x64\Debug\VoxelReconstruction.exe
+﻿  VoxelReconstruction.cpp
+  General.cpp
+  main.cpp
+  Scene3DRenderer.cpp
+  Reconstructor.cpp
+  Glut.cpp
+  Camera.cpp
+  arcball.cpp
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(67): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(94): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(96): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(188): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(259): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(286): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\uni stuff\computer vision\assignment 2\voxelreconstruction\voxel-reconstruction\src\controllers\arcball.cpp(287): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  LINK : D:\Uni Stuff\Computer Vision\Assignment 2\VoxelReconstruction\Voxel-reconstruction\x64\Debug\VoxelReconstruction.exe not found or not built by the last incremental link; performing full link
+  VoxelReconstruction.vcxproj -> D:\Uni Stuff\Computer Vision\Assignment 2\VoxelReconstruction\Voxel-reconstruction\x64\Debug\VoxelReconstruction.exe
